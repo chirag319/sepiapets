@@ -1,3 +1,4 @@
+ <img src="screenshots/logo.png" width="200" />
 # Android MVVM Architecture: Sepia Pet's app
 This repository contains a detailed sample app that implements MVVM architecture.
 
