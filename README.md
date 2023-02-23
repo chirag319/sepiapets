@@ -1,4 +1,15 @@
-# sepiapets
-This project is an Android application that displays a list of pets during working hour. else shows an dialog with message with (app) exit button. On clicking a pet, a detailed view of pet is displayed.
+# Android MVVM Architecture: Sepia Pet's app
+This repository contains a detailed sample app that implements MVVM architecture.
 
-Requirements Android Studio 4.1 or later Android SDK version 21 or later
+## Requirement
+Requirements Android SDK version 21 or later
+
+## Notes:
+- Used MVVM Design pattern.
+- Used Jetpack Compose UI.
+- ui: View classes along with their corresponding ViewModel.
+- repository: It contains logic to fetch data currently its fetching from local json, but it can be scale easily but adding api logic other app component will work smoothly.
+- model: It contains data classes.
+- Utility: Utility classes.
+
+
