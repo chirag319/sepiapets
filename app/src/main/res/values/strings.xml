@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sepiapets</string>
+    <string name="pet_list">Pet List</string>
+    <string name="non_working_hours">Non working hours</string>
+    <string name="available_working_hours">Available only during working hours.%s</string>
+    <string name="exit">Exit</string>
+    <string name="message_wait">Please wait</string>
+</resources>
