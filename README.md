@@ -14,8 +14,9 @@ Requirements Android SDK version 21 or later
 
 ## ScreenShots:
 <p float="left">
-  <img src="screenshots/home.png" width="250" />
-  <img src="screenshots/detail.png" width="250" /> 
-  <img src="screenshots/error.png" width="250" />
+  <img src="screenshots/pet_home.png" width="250" />
+  <img src="screenshots/pet_detail.png" width="250" /> 
+  <img src="screenshots/pet_alert_wh.png" width="250" />
+  <img src="screenshots/pet_home_dark.png" width="250" />
 </p>
 
